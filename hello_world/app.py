@@ -12,7 +12,6 @@ def hello():
 @app.route("/verify", methods=['POST'])
 def verify():
     print(request.files['image'])
-    genai.configure(api_key="AIzaSyAoyJAm8K0YNzhCwZXkWISZwpO2rqODOYs")
 
     # img = request.files['image']
     # img = Image.open(img, "rb")
