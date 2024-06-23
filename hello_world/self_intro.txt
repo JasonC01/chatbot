@@ -1,0 +1,39 @@
+Hi, my name is Chung Yunseong.
+I am a 3rd year computer science student at National Univerity of Singapore
+Although it seemed like English, something was not right. I was uneasy while watching my
+father, who was a system analyst, sitting next to me and typing in an unfamiliar language
+using his laptop. Some words were coloured in orange, blue and purple while his indentations
+were not consistent. My confusion must have been filling the room as my father started
+explaining his work out of a sudden. He said he was talking to his laptop in its language to
+run programs. Later, I realized that it was a script written in SQL, an effective programming
+language. I began to wonder what it would be like to compile my codes and this thought has
+made me delve into the world of Computer Science.
+While keeping academic excellence, I started running my code in Python without further
+hesitation as it was one of the most approachable programming languages. From printing out
+basic statements to using if-else statements, my code grew longer day by day. The function
+which had caught my attention was ‘loops’. There were many types of loops: ‘for-loops’,
+‘while-loops’ and ‘do while-loops’. Among them, the mechanism of the ‘for-loops’ was the
+most interesting yet surprising. When a list containing multiple items was given, the
+‘for-loops’ iterated over the list to analyse each item in the list one by one rather than
+analysing the list as a whole. It has also allowed me to give specific conditions to each item
+by using if statements and modify them based on my preferences. Studying different
+operations and performing unique tasks have added greater interest in my self-learning and
+encouraged me to study deeper.
+After learning the advanced concept on loops - ‘Nested Loops’, I decided to challenge myself
+by conducting a simple self-project. It involved the application of loops, using both
+‘for-loops’ and ‘while-loops’ in a nested loop. Precisely, it was a single identifier that could
+iterate values in a list to find the maximum number entered by a user. Firstly, I had prepared a
+‘for-loop’ and a ‘while-loop’ separately by solving sample practices. Then, I started
+constructing a nested loop once I had completely understood the concept of each loop.
+However, my code returned errors, which I did not understand its source. After patient
+analysis, I realized that there were missing indentations inside the nested loop. When it ran
+successfully after the correction, a strong sense of achievement overwhelmed me. I believe
+this is only a beginning as more sophisticated projects are awaiting me at HKUST.
+Being a young music talent, I was involved in diverse events as a percussionist. I have joined
+the school marching band as a xylophone player and performed in several major events. The
+xylophone is an instrument that has to be played with extreme accuracy as it is prone to
+making sharp, uncomfortable noise. To play a perfect tone, I practised the same music piece
+repeatedly until I made no mistune, which had shaped my persistent and hardworking
+character. I was also a vice-president of a Korean traditional instruments band. Being the
+decision-maker, I had to choose suggestions that could lead to the finest results. Having these
+acquaintances, I am proud to present myself to excel in HKUST.

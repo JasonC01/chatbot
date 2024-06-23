@@ -1,0 +1,17 @@
+requests
+urllib3<2
+aws-wsgi 
+flask
+google-generativeai
+image
+python-dotenv
+streamlit
+langchain_community
+langgraph
+sentence-transformers
+langchain-pinecone
+crewai
+crewai_tools
+langchain
+pinecone-client
+crewai[tools]
