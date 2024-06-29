@@ -95,3 +95,21 @@ def context():
         return docsearch.as_retriever()
 
 # print(context("who are you"))
+
+def similarity_search(query: str):
+        load_dotenv()
+        # pinecone.init(
+        #         api_key= os.getenv('PINECONE_API_KEY'),
+        #         environment='gcp-starter'
+        #     )   
+        # Define Index Name
+        # pinecone = Pinecone()
+        # pinecone
+        embeddings = HuggingFaceEmbeddings()
+        index_name = "langchain-demo"
+        pinecone = pc(api_key=os.getenv('PINECONE_API_KEY'))
+        idx = pinecone.Index(index_name)
+        docsearch = Pinecone(idx, embeddings)
+        return docsearch.similarity_search(query=query)
+
+print(similarity_search("what is your favourite colour?"))
